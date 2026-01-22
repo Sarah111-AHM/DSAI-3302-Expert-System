@@ -91,4 +91,4 @@ All lecture materials belong to the course instructor
 They are shared here for educational use only
 ---
 **If you find this helpful  
-feel free to star the repository ⭐ **
+feel free to star the repository ⭐**
